@@ -3,13 +3,13 @@
 
  ![Kodluyoruz Photo](kodluyoruzrepophoto.png)
 
-##Installation
+## Installation
 
 Öncelikle Projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 ```
 https://github.com/hsnozkl/kodluyoruzilkrepo.git
 ```
-##Usage
+## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
@@ -17,9 +17,9 @@ Linux için:
 cd kodluyoruzilkrepo
 code
 ```
-##Contributing
+## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-##License
+## License
 
 [Mit](https://choosealicense.com/licenses/mit/)
